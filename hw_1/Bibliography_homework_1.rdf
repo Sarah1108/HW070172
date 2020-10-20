@@ -1,0 +1,1641 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="#item_2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Champollion</foaf:surname>
+                        <foaf:givenName>Lucas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1"/>
+        <dc:title>Distributivity, collectivity and cumulativity</dc:title>
+        <dcterms:abstract>This handbook article provides an overview of the major empirical phenomena discussed in connection with the theoretical concepts of distributivity, collectivity, and cumulativity. Topics include: an operational de nition of distributivity; the di erence between lexical and phrasal distributivity; atomic vs. nonatomic distributivity; collectivity and thematic entailments; two classes of collective predicates (exempli ed by be numerous vs. gather); how to distinguish between cumulative and collective readings; interactions of distributivity and collectivity; and a list of other relevant review papers and handbook articles. Typological generalizations and examples from a wide range of languages are discussed throughout the article.</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <bib:pages>43</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Champollion - Distributivity, collectivity and cumulativity.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-11-022549-5">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Quellen und Forschungen zur Literatur- und Kulturgeschichte</dc:title>
+                <dc:identifier>60 (294)</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin ; New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>De Gruyter</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Malcher</foaf:surname>
+                        <foaf:givenName>Kay</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Dietrich</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Dietrichepik</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Eckenlied</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Epic poetry, German</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Gewalt &lt;Motiv&gt;</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Laurin</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Romances</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Rosengarten</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Violence in literature</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Die Faszination von Gewalt: rezeptionsästhetische Untersuchungen zu aventiurehafter Dietrichepik</dc:title>
+        <dc:date>2009</dc:date>
+        <z:language>de</z:language>
+        <z:shortTitle>Die Faszination von Gewalt</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>PT207 .M35 2009</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>OCLC: ocn471672543</dc:description>
+        <dc:identifier>ISBN 978-3-11-022549-5</dc:identifier>
+        <z:numPages>420</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_3">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Malcher - 2009 - Die Faszination von Gewalt rezeptionsästhetische .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_5">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[18658849 - Arbitrium] Peter Czerwinski, Gegenwärtigkeit. Simultane Räume und zyklische Zeiten, Formen von Regeneration und Genealogie.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_8">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_7"/>
+        <dc:title>Lex Islandorum 'Jónsbók' inscripta</dc:title>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <bib:pages>2</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_7">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Lex Islandorum 'Jónsbók' inscripta.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma51383783170003332/UWI">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_12"/>
+        <dc:title>Digital scholarly editing : theories and practices - Universit&amp;#228;t Wien</dc:title>
+        <dcterms:abstract>Enthält: Notes on Contributors -- Foreword / Hans Walter Gabler -- 1. Introduction: Old Wine in New Bottles? / Matthew James Driscoll and Elena Pierazzo -- SECTION 1: THEORIES. 2. What is a Scholarly Digital Edition? / Patrick Sahle -- 3. Modelling Digital Scholarly Editing: From Plato to Heraclitus / Elena Pierazzo -- 4. A Protocol for Scholarly Digital Editions? The Italian Point of View / Marina Buzzoni -- 5. Barely Beyond the Book? / Joris van Zundert -- 6. Exogenetic Digital Editing and Enactive Cognition / Dirk Van Hulle -- 7. Reading or Using a Digital Edition? Reader Roles in Scholarly Editions / Krista Stinne Greve Rasmussen -- SECTION 2: PRACTICES. 8. Building A Social Edition of the Devonshire Manuscript / Ray Siemens, Constance Crompton, Daniel Powell and Alyssa Arbuckle, with Maggie Shirley and the Devonshire Manuscript Editorial Group -- 9. A Catalogue of Digital Editions / Greta Franzini, Melissa Terras and Simon Mahony -- 10. Early Modern Correspondence: A New Challenge for Digital Editions / Camille Desenclos -- 11. Beyond Variants: Some Digital Desiderata for the Critical Apparatus of Ancient Greek and Latin Texts / Cynthia Damon -- 12. The Battle We Forgot to Fight: Should We Make a Case for Digital Editions? / Roberto Rosselli Del Turco -- Bibliography -- Index.;Available through Open Book Publishers.</dcterms:abstract>
+        <z:language>de</z:language>
+        <z:shortTitle>Digital scholarly editing</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma51383783170003332/UWI</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-06 08:28:38</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=UWI_alma51383783170003332&amp;context=L&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=Local%20Search%20Engine&amp;tab=default_tab&amp;query=any,contains,digital%20scholarly%20edition&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-06 08:28:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21331277980003332/UWI">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_14"/>
+        <dc:title>J&amp;#243;nsb&amp;#243;k : the laws of later Iceland ; the Icelandic text, according to MS AM 351 fol. Sk&amp;#225;lholtsb&amp;#243;k eldri - Universit&amp;#228;t Wien</dc:title>
+        <dcterms:abstract>Text engl. u. isländ.;Literaturverz. S. 464 - 465</dcterms:abstract>
+        <z:language>de</z:language>
+        <z:shortTitle>J&amp;#243;nsb&amp;#243;k</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21331277980003332/UWI</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 15:59:28</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_14">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=UWI_alma21331277980003332&amp;context=L&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=Local%20Search%20Engine&amp;tab=default_tab&amp;query=any,contains,jonsbok&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 15:59:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="#item_15">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_16"/>
+        <dc:title>Wortschatz der J&amp;#243;nsb&amp;#243;k - Universit&amp;#228;t Wien</dc:title>
+        <dcterms:abstract>Wortschatz der Jónsbók-book</dcterms:abstract>
+        <z:language>de</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21331277980003332/UWI</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:00:03</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_16">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=UWI_alma21209851780003332&amp;context=L&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=Local%20Search%20Engine&amp;tab=default_tab&amp;query=any,contains,jonsbok&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:00:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21235577220003332/UWI">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_18"/>
+        <dc:title>L&amp;#246;gbok Islendinga : Jonsbok 1578 - Universit&amp;#228;t Wien</dc:title>
+        <dcterms:abstract>[Isländisches Gesetzbuch]</dcterms:abstract>
+        <z:language>de</z:language>
+        <z:shortTitle>L&amp;#246;gbok Islendinga</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21235577220003332/UWI</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:01:11</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_18">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=UWI_alma21235577220003332&amp;context=L&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=Local%20Search%20Engine&amp;tab=default_tab&amp;query=any,contains,jonsbok&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:01:20</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21326356850003332/UWI">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_20"/>
+        <dc:title>Stadtrecht des K&amp;#246;nigs Magnus Hakonarson f&amp;#252;r Bergen : Bruchst&amp;#252;cke des Birkinselrechts und Seefahrerrechts der J&amp;#243;nsb&amp;#243;k - Universit&amp;#228;t Wien</dc:title>
+        <dcterms:abstract>In Fraktur. - Text altnorweg. und dt.</dcterms:abstract>
+        <z:language>de</z:language>
+        <z:shortTitle>Stadtrecht des K&amp;#246;nigs Magnus Hakonarson f&amp;#252;r Bergen</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21326356850003332/UWI</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:02:24</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_20">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=UWI_alma21326356850003332&amp;context=L&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=Local%20Search%20Engine&amp;tab=default_tab&amp;query=any,contains,jonsbok&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:02:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_21">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Germanenrechte : Neue Folge : Abteilung Nordgermanisches Recht</dc:title>
+                <dc:identifier>3</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Weimar</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Böhlau</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>VI</foaf:surname>
+                        <foaf:givenName>Magnus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Bergen</dc:subject>
+        <dc:subject>Norwegen</dc:subject>
+        <dc:subject>Stadtrecht</dc:subject>
+        <dc:title>Stadtrecht des Königs Magnus Hakonarson für Bergen : Bruchstücke des Birkinselrechts und Seefahrerrechts der Jónsbók</dc:title>
+        <dc:date>1950</dc:date>
+        <z:language>nor;ger</z:language>
+        <dc:description>Citation Key: MagnusVI1950SdKM</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_22">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Germanenrechte : Neue Folge : Abteilung Nordgermanisches Recht ; 3</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Weimar</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Böhlau</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>VI</foaf:surname>
+                        <foaf:givenName>Magnus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Bergen</dc:subject>
+        <dc:subject>Norwegen</dc:subject>
+        <dc:subject>Stadtrecht</dc:subject>
+        <dc:title>Stadtrecht des Königs Magnus Hakonarson für Bergen : Bruchstücke des Birkinselrechts und Seefahrerrechts der Jónsbók</dc:title>
+        <dc:date>1950</dc:date>
+        <z:language>nor;ger</z:language>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-3-11-046618-8">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Ergänzungsbände zum Reallexikon der germanischen Altertumskunde ; Band 97</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>De Gruyter</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Strauch</foaf:surname>
+                        <foaf:givenName>Dieter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Geschichte 800-1500</dc:subject>
+        <dc:subject>Nordeuropa</dc:subject>
+        <dc:subject>Recht</dc:subject>
+        <dc:title>Mittelalterliches nordisches Recht bis ca. 1500 : eine Quellenkunde</dc:title>
+        <dc:date>2016</dc:date>
+        <z:language>ger</z:language>
+        <dc:description>Citation Key: StrauchDieter2016MnRb</dc:description>
+        <dc:identifier>ISBN 978-3-11-046618-8</dc:identifier>
+        <prism:edition>2., völlig neu bearbeitete und erweiterte Auflage.</prism:edition>
+    </bib:Book>
+    <bib:Book rdf:about="#item_24">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Ergänzungsbände zum Reallexikon der germanischen Altertumskunde ; Band 97</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>De Gruyter</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Strauch</foaf:surname>
+                        <foaf:givenName>Dieter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_25"/>
+        <dc:subject>Geschichte 800-1500</dc:subject>
+        <dc:subject>Nordeuropa</dc:subject>
+        <dc:subject>Recht</dc:subject>
+        <dc:title>Mittelalterliches nordisches Recht bis ca. 1500 : eine Quellenkunde</dc:title>
+        <dc:date>2016</dc:date>
+        <z:language>ger</z:language>
+        <dc:identifier>ISBN 978-3-11-046618-8</dc:identifier>
+        <prism:edition>2., völlig neu bearbeitete und erweiterte Auflage.</prism:edition>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_25">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Strauch_2016_Mittelalterliches nordisches Recht bis ca.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://reader.digitale-sammlungen.de/resolve/display/bsb10563989.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_29"/>
+        <dc:title>MDZ-Reader | Band | Lögbók Magnúsar Konungs, Lagabaetis handa íslendingum edur Jónsbók hin forna / Magnus &lt;Norge, Kong, VII.&gt; | Lögbók Magnúsar Konungs, Lagabaetis handa íslendingum edur Jónsbók hin forna / Magnus &lt;Norge, Kong, VII.&gt;</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://reader.digitale-sammlungen.de/resolve/display/bsb10563989.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:15:05</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_29">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>MDZ-Reader | Band | Lögbók Magnúsar Konungs, Lagabaetis handa íslendingum edur Jónsbók hin forna / Magnus &lt;Norge, Kong, VII.&gt; | Lögbók Magnúsar Konungs, Lagabaetis handa íslendingum edur Jónsbók hin forna / Magnus &lt;Norge, Kong, VII.&gt;</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://reader.digitale-sammlungen.de/resolve/display/bsb10563989.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:15:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://reader.digitale-sammlungen.de/resolve/display/bsb10564046.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vídalín</foaf:surname>
+                        <foaf:givenName>Pall Jónsson</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_31"/>
+        <dc:title>Skýríngar yfir fornyrdi lögbókar þeirrar, er Jónsbók kallast</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://reader.digitale-sammlungen.de/resolve/display/bsb10564046.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:16:55</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_31">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>MDZ-Reader | Band | Skýríngar yfir fornyrdi lögbókar þeirrar, er Jónsbók kallast / Vídalín, Pall Jónsson | Skýríngar yfir fornyrdi lögbókar þeirrar, er Jónsbók kallast / Vídalín, Pall Jónsson</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://reader.digitale-sammlungen.de/resolve/display/bsb10564046.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:16:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_32">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:013806645"/>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:013806645">
+       <dc:identifier>ISSN 013806645</dc:identifier>
+    </bib:Journal>
+    <bib:Document rdf:about="https://zdb-katalog.de/list.xhtml?t=zdb%3D702993-7&amp;key=cql&amp;asc=false">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_34"/>
+        <dc:title>ZDB-Katalog - Suchergebnisseite: zdb=702993-7</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://zdb-katalog.de/list.xhtml?t=zdb%3D702993-7&amp;key=cql&amp;asc=false</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:19:56</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_34">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ZDB-Katalog - Suchergebnisseite: zdb=702993-7</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://zdb-katalog.de/list.xhtml?t=zdb%3D702993-7&amp;key=cql&amp;asc=false</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:20:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_35">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>20</prism:volume>
+                <dc:title>Tímarit lögfræðinga</dc:title>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Líndal</foaf:surname>
+                        <foaf:givenName>Theodór B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Jónsbók</dc:subject>
+        <dc:subject>Ritfregnir</dc:subject>
+        <dc:title>Jónsbók</dc:title>
+        <dc:date>1970</dc:date>
+        <z:language>ice</z:language>
+        <dc:description>Citation Key: TheodórB.Líndal1970J</dc:description>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-0-252-03840-2">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Apollon, Belisle</foaf:surname>
+                        <foaf:givenName>Apollon, Belisle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Apollon</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_37"/>
+        <link:link rdf:resource="#item_38"/>
+        <link:link rdf:resource="#item_39"/>
+        <dc:title>Digital Critical Editions</dc:title>
+        <dc:date>2014</dc:date>
+        <prism:volume>11</prism:volume>
+        <dc:identifier>ISBN 978-0-252-03840-2</dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_37">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=TN_cdi_askewsholts_vlebooks_9780252096280&amp;context=PC&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=primo_central_multiple_fe&amp;tab=default_tab&amp;query=any,contains,digital%20edition&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:46:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_38">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Apollon, Belisle_Apollon_2014_Digital Critical Editions.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_39">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>bmxlYmtfXzc2MDIxM19fQU41</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://web.a.ebscohost.com.uaccess.univie.ac.at/ehost/ebookviewer/ebook/bmxlYmtfXzc2MDIxM19fQU41?sid=de3f5742-1108-4dd8-9f35-619a6ab6616b@sdc-v-sessmgr02&amp;vid=0&amp;format=EB&amp;rid=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:51:39</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <dc:description>&lt;p&gt;Das ganze Buch ist downloadbar.&lt;/p&gt;</dc:description>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_40">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1559-2936"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Earhart</foaf:surname>
+                        <foaf:givenName>Earhart</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Earhart</foaf:surname>
+                        <foaf:givenName>Amy E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_41"/>
+        <link:link rdf:resource="#item_42"/>
+        <dc:title>The Digital Edition and the Digital Humanities</dc:title>
+        <dc:date>2012-04-01</dc:date>
+        <bib:pages>18-28</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1559-2936">
+        <prism:volume>7</prism:volume>
+        <dc:title>Textual cultures : text, contexts, interpretation</dc:title>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 1559-2936</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_41">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=TN_cdi_proquest_journals_1281830133&amp;context=PC&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=primo_central_multiple_fe&amp;tab=default_tab&amp;query=any,contains,digital%20edition&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:53:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_42">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Earhart_Earhart_2012_The Digital Edition and the Digital Humanities.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://usearch.univie.ac.at">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_44"/>
+        <link:link rdf:resource="#item_45"/>
+        <dc:title>From book to screen: Creating a digital paradigm for scholarly editions of literature - Universit&amp;#228;t Wien</dc:title>
+        <dcterms:abstract>From book to screen: Creating a digital paradigm for scholarly editions of literature-article</dcterms:abstract>
+        <z:language>de</z:language>
+        <z:shortTitle>From book to screen</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://usearch.univie.ac.at</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:55:59</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_44">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.univie.ac.at/primo-explore/openurl?institution=UWI&amp;vid=UWI&amp;ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi%2Fenc:UTF-8&amp;ctx_tim=2020-10-10T18:53:11IST&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=infofi%2Ffmt:kev:mtx:ctx&amp;rfr_id=info:sid%2Fprimo.exlibrisgroup.com:primo3-Article-53942088-Bx&amp;rft_val_fmt=info:ofi%2Ffmt:kev:mtx:&amp;rft.genre=article&amp;rft.atitle=From%20book%20to%20screen:%20Creating%20a%20digital%20paradigm%20for%20scholarly%20editions%20of%20literature&amp;rft.jtitle=The%20International%20Journal%20of%20the%20Book&amp;rft.btitle=&amp;rft.aulast=Evans&amp;rft.auinit=K&amp;rft.auinit1=K&amp;rft.auinitm=&amp;rft.ausuffix=&amp;rft.au=&amp;rft.aucorp=&amp;rft.date=2011&amp;rft.volume=8&amp;rft.issue=3&amp;rft.part=&amp;rft.quarter=&amp;rft.ssn=&amp;rft.spage=87&amp;rft.epage=102&amp;rft.pages=&amp;rft.artnum=&amp;rft.issn=1447-9516&amp;rft.eissn=&amp;rft.isbn=&amp;rft.sici=&amp;rft.coden=&amp;%5Drft_id=info:doi%2F&amp;rft.object_id=&amp;rft_dat=%3C53942088%3E%3C%2F53942088%3E%3Cgrp_id%3E%3C%2Fgrp_id%3E%3Coa%3E%3C%2Foa%3E%3Curl%3E%3C%2Furl%3E&amp;rft.eisbn=&amp;rft_id=info:oai%2F&amp;req.language=&amp;rft_pqid=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:56:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_45">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>From book to screen Creating a digital paradigm f.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="#item_46">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_47"/>
+        <link:link rdf:resource="#item_48"/>
+        <dc:title>Interpretative Mechanisms in the Textual Cultures of Scholarly Editing - Universit&amp;#228;t Wien</dc:title>
+        <dcterms:abstract>Interpretative Mechanisms in the Textual Cultures of Scholarly Editing-article</dcterms:abstract>
+        <z:language>de</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://usearch.univie.ac.at</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:57:21</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_47">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.univie.ac.at/primo-explore/openurl?institution=UWI&amp;vid=UWI&amp;ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi%2Fenc:UTF-8&amp;ctx_tim=2020-10-10T18:53:11IST&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=infofi%2Ffmt:kev:mtx:ctx&amp;rfr_id=info:sid%2Fprimo.exlibrisgroup.com:primo3-Article-27792417-Bx&amp;rft_val_fmt=info:ofi%2Ffmt:kev:mtx:&amp;rft.genre=article&amp;rft.atitle=Interpretative%20Mechanisms%20in%20the%20Textual%20Cultures%20of%20Scholarly%20Editing&amp;rft.jtitle=Textual%20cultures&amp;rft.btitle=&amp;rft.aulast=Storey&amp;rft.auinit=W&amp;rft.auinit1=W&amp;rft.auinitm=&amp;rft.ausuffix=&amp;rft.au=&amp;rft.aucorp=&amp;rft.date=2009&amp;rft.volume=4&amp;rft.issue=1&amp;rft.part=&amp;rft.quarter=&amp;rft.ssn=&amp;rft.spage=129&amp;rft.epage=147&amp;rft.pages=&amp;rft.artnum=&amp;rft.issn=1559-2936&amp;rft.eissn=1933-7418&amp;rft.isbn=&amp;rft.sici=&amp;rft.coden=&amp;%5Drft_id=info:doi%2F&amp;rft.object_id=&amp;rft_dat=%3C27792417%3E%3C%2F27792417%3E%3Cgrp_id%3E%3C%2Fgrp_id%3E%3Coa%3E%3C%2Foa%3E%3Curl%3E%3C%2Furl%3E&amp;rft.eisbn=&amp;rft_id=info:oai%2F&amp;req.language=&amp;rft_pqid=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 16:57:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_48">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Interpretative Mechanisms in the Textual Cultures of Scholarly Editing -.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_49">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>7</prism:volume>
+                <dc:title>Textual cultures : text, contexts, interpretation</dc:title>
+                <prism:number>1</prism:number>
+                <dc:identifier>ISSN 1559-2936</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Earhart</foaf:surname>
+                        <foaf:givenName>Earhart</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Earhart</foaf:surname>
+                        <foaf:givenName>Amy E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_50"/>
+        <dc:title>The Digital Edition and the Digital Humanities</dc:title>
+        <dc:date>2012-04-01</dc:date>
+        <bib:pages>18-28</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_50">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=TN_cdi_proquest_journals_1281830133&amp;context=PC&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=primo_central_multiple_fe&amp;tab=default_tab&amp;query=any,contains,digital%20edition&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:04:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="#item_51">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>45</prism:volume>
+                <dc:title>Textgenese in der digitalen Edition</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nutt-Kofoth</foaf:surname>
+                        <foaf:givenName>Nutt-Kofoth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nutt-Kofoth</foaf:surname>
+                        <foaf:givenName>Rüdiger</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_52"/>
+        <link:link rdf:resource="#item_53"/>
+        <dc:title>Textgenese analog und digital: Ziele, Standards, Probleme</dc:title>
+        <dc:date>2019</dc:date>
+        <z:shortTitle>Textgenese analog und digital</z:shortTitle>
+        <bib:pages>1-22</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_52">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=TN_cdi_walterdegruyter_books_9783110575996-002_pdf&amp;context=PC&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=primo_central_multiple_fe&amp;tab=default_tab&amp;query=any,contains,Editionsmethoden&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:10:05</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_53">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>9783110575996</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi-org.uaccess.univie.ac.at/10.1515/9783110575996</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:11:04</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-11-030026-0">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bohnenkamp-Renken, Woesler</foaf:surname>
+                        <foaf:givenName>Bohnenkamp-Renken, Woesler</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bohnenkamp-Renken</foaf:surname>
+                        <foaf:givenName>Anne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_55"/>
+        <link:link rdf:resource="#item_56"/>
+        <dc:title>Medienwandel / Medienwechsel in der Editionswissenschaft</dc:title>
+        <dc:date>2012</dc:date>
+        <dc:identifier>ISBN 978-3-11-030026-0</dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_55">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=TN_cdi_proquest_ebookcentral_EBC955841&amp;context=PC&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=primo_central_multiple_fe&amp;tab=default_tab&amp;query=any,contains,Editionsmethoden&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:11:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_56">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Bohnenkamp-Renken, Woesler_Bohnenkamp-Renken_2012_Medienwandel - Medienwechsel in der Editionswissenschaft.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+        <dc:description>&lt;p xmlns=&quot;http://www.w3.org/1999/xhtml&quot; id=&quot;title&quot;&gt;&lt;strong&gt;Contents&lt;/strong&gt;&lt;/p&gt;&lt;ul xmlns=&quot;http://www.w3.org/1999/xhtml&quot; style=&quot;list-style-type: none; padding-left:0px&quot; id=&quot;toc&quot;&gt;&lt;li&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/9&quot;&gt;Einleitung&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/17&quot;&gt;Ein offenes Buch? Autorschaft im Zeitalter der Informationsgesellschaft&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/27&quot;&gt;Sichten - Perspektiven auf Text&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/39&quot;&gt;Die Grenzen meiner Textverarbeitung bedeuten die Grenzen meiner Edition&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/49&quot;&gt;Leibniz’ mathematische Notation und der Druck&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/69&quot;&gt;Medienwechsel als Mittel der Popularisierung: Ziglers Asiatische Banise von 1689 bis heute&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/81&quot;&gt;Schillers Bühnenfassungen der Jungfrau von Orleans im Vergleich zur Buchfassung&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/89&quot;&gt;Edition als Medientransfer, Edition im Medientransfer Überlegungen am Beispiel von Büchners Woyzeck&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/99&quot;&gt;Spieltexte des Wiener Volkstheaters: Von der Handschrift zum „Manuskriptdruck“&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/107&quot;&gt;Medienwechsel und produktionsästhetische Logik: Zu Paul Wührs O-Ton-Hörspiel So eine Freiheit&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/129&quot;&gt;Audioedition. Auf dem Weg zu einer Theorie&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/137&quot;&gt;Neue Darstellungsformen von Fassungen musikalischer Werke&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/149&quot;&gt;Oper multimedial - Zur Edirom-Ausgabe von Haydns Arienbearbeitungen&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/159&quot;&gt;Zu einer digitalen Edition des Operntextes von Mozarts Idomeneo oder: Wie authentisch darf Mozart sein?&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/167&quot;&gt;Möglichkeiten und Konsequenzen der Digitalen Musikedition am Beispiel der Reger-Werkausgabe (RWA)&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/175&quot;&gt;Werkstattbericht: Die Retrodigitalisierung der Sammlung Schweizerischer Rechtsquellen (SSRQ) und die künftige digitale Edition&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/181&quot;&gt;St. Anselmi Fragen an Maria - Schritte zu einer (digitalen) Erschließung, Auswertung und Edition der gesamten deutschsprachigen Überlieferung (14.-16. Jh.)&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/201&quot;&gt;Alte Bits in neuen Codes: Gedanken zur Weiterentwicklung der ,Grazer dynamischen Editionsmethode‘ am Beispiel eines Editionsprojektes in Fortsetzungen&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/215&quot;&gt;Elektronische Palimpseste: Hybridedition von Ludwig Achim von Arnims Wintergarten&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/227&quot;&gt;Medienwechsel in der Praxis: Die Verzen (1894) von Willem Kloos&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/237&quot;&gt;Die Online-Edition der Briefe von und an Frank Wedekind. Eine virtuelle Kontextualisierung von Korrespondenzen&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/249&quot;&gt;Gedrucktes Buch und digitales Archiv. Zur textkritischen und kommentierten Ausgabe von Ernst Meisters lyrischem Werk&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/265&quot;&gt;Schreibtische&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_PXW4286C/277&quot;&gt;Anschriften&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</dc:description>
+    </z:Attachment>
+    <bib:BookSection rdf:about="#item_57">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>35</prism:volume>
+                <dc:identifier>ISBN 978-3-11-030026-0</dc:identifier>
+                <dc:title>Medienwandel / Medienwechsel in der Editionswissenschaft</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hofmeister-Winter</foaf:surname>
+                        <foaf:givenName>Hofmeister-Winter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hofmeister-Winter</foaf:surname>
+                        <foaf:givenName>Andrea</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_58"/>
+        <dc:title>Alte Bits in neuen Codes: Gedanken zur Weiterentwicklung der ‚Grazer dynamischen Editionsmethode‘ am Beispiel eines Editionsprojektes in Fortsetzungen</dc:title>
+        <dc:date>2012-11-14</dc:date>
+        <z:shortTitle>Alte Bits in neuen Codes</z:shortTitle>
+        <bib:pages>193-206</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_58">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=TN_cdi_walterdegruyter_books_10_1515_9783110300437_193&amp;context=PC&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=primo_central_multiple_fe&amp;tab=default_tab&amp;query=any,contains,Editionsmethoden&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:18:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_59">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2158-2440"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Corti, Fielding, Bishop</foaf:surname>
+                        <foaf:givenName>Corti, Fielding, Bishop</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Corti</foaf:surname>
+                        <foaf:givenName>Louise</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_60"/>
+        <link:link rdf:resource="#item_61"/>
+        <dc:title>Editorial for Special Edition, Digital Representations</dc:title>
+        <dc:date>2016-11</dc:date>
+        <bib:pages>215824401667891-</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2158-2440">
+        <prism:volume>6</prism:volume>
+        <dc:title>SAGE Open</dc:title>
+        <prism:number>4</prism:number>
+        <dc:identifier>ISSN 2158-2440</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_60">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=TN_cdi_crossref_primary_10_1177_2158244016678911&amp;context=PC&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=primo_central_multiple_fe&amp;tab=default_tab&amp;query=any,contains,digital%20edition&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:25:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_61">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Corti, Fielding, Bishop_Corti_2016_Editorial for Special Edition, Digital Representations.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_almanz71317102110003331/UWI">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Digital Philology, medieval texts, and the Corpus of Latin rhythms, a digital edition of music and poems - Universit&amp;#228;t Wien</dc:title>
+        <dcterms:abstract>Digital Philology, medieval texts, and the Corpus of Latin rhythms, a digital edition of music and poems-article</dcterms:abstract>
+        <z:language>de</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_almanz71317102110003331/UWI</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:27:10</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Article rdf:about="#item_63">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0097-3319"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lehew</foaf:surname>
+                        <foaf:givenName>Lehew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lehew</foaf:surname>
+                        <foaf:givenName>Jeanne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_64"/>
+        <dc:title>Enjoying the Digital Edition.(Letter to the editor)</dc:title>
+        <dc:date>2018-08-01</dc:date>
+        <bib:pages>39-</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0097-3319">
+        <prism:volume>73</prism:volume>
+        <dc:title>The New York State conservationist</dc:title>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 0097-3319</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_64">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=TN_cdi_gale_infotraccpiq_559210516&amp;context=PC&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=primo_central_multiple_fe&amp;tab=default_tab&amp;query=any,contains,digital%20edition&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:27:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_65">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0931-3079"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dillen, Hulle</foaf:surname>
+                        <foaf:givenName>Dillen, Hulle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dillen</foaf:surname>
+                        <foaf:givenName>Wout</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Digital Scholarly Editing: Theory, Practice, Methods. Conference of the European Society for Textual Scholarship in Conjunction with the Digital Scholarly Editions Initial Training Network (DiXiT), University of Antwerp, 5–7 October 2016</dc:title>
+        <dc:date>2017-12-20</dc:date>
+        <z:shortTitle>Digital Scholarly Editing</z:shortTitle>
+        <bib:pages>247-253</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0931-3079">
+        <prism:volume>31</prism:volume>
+        <dc:title>Editio</dc:title>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 0931-3079</dc:identifier>
+    </bib:Journal>
+    <bib:Document rdf:about="https://bosworthtoller.com/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Bosworth-Toller Anglo-Saxon Dictionry</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tichy</foaf:surname>
+                        <foaf:givenName>Martin Rocek, Ondrej</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_67"/>
+        <dc:title>Bosworth-Toller Anglo-Saxon Dictionary</dc:title>
+        <dcterms:abstract>Client for Bosworth-Toller Anglo-Saxon dictionary</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://bosworthtoller.com/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:32:37</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_67">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://bosworthtoller.com/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:32:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_69">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Wörterbuch der Indogermanischen Sprachen</dc:title>
+                <dc:identifier>Dritter Teil</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fick</foaf:surname>
+                        <foaf:givenName>August</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_72"/>
+        <link:link rdf:resource="#item_68"/>
+        <dc:title>Wortschatz der Germanischen Spracheinheit</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_72">
+        <rdf:value>&lt;p&gt;http://www.germanic-lexicon-project.org/texts/pgmc_torp_about.html&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_68">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Fick - Wörterbuch der Indogermanischen Sprachen -- Dritte.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.germanic-lexicon-project.org/pdf/pgmc_torp/pgmc_torp_20061216.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:34:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_71">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fick</foaf:surname>
+                        <foaf:givenName>August</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_70"/>
+        <dc:title>Wörterbuch der Indogermanischen Sprachen -- Dritter Teil: Wortschatz der Germanischen Spracheinheit</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <bib:pages>301</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_70">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Fick - Wörterbuch der Indogermanischen Sprachen -- Dritte.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.germanic-lexicon-project.org/pdf/pgmc_torp/pgmc_torp_20061216.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:34:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://www.germanic-lexicon-project.org/texts/goth_wright_about.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Germanic Lexicon Project</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wright</foaf:surname>
+                        <foaf:givenName>Joseph</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_74"/>
+        <dc:title>Grammar of the Gothic Language</dc:title>
+        <dc:date>1910</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.germanic-lexicon-project.org/texts/goth_wright_about.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:38:02</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_74">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Germanic Lexicon Project: Grammar of the Gothic Language</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.germanic-lexicon-project.org/texts/goth_wright_about.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:38:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+        <dc:description>&lt;p&gt;Glossary:&lt;/p&gt;
+&lt;p&gt;http://www.germanic-lexicon-project.org/tmp/goth_wright_glossary.html&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</dc:description>
+    </z:Attachment>
+    <bib:Book rdf:about="http://archive.org/details/altislndischeu00noreuoft">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Halle, Max Niemeyer</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Noreen</foaf:surname>
+                        <foaf:givenName>Adolf Gotthard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Robarts - University of Toronto</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Icelandic language -- Grammar</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Altisländische und altnorwegische Grammatik unter Berücksichtigung des Urnordischen</dc:title>
+        <dcterms:abstract>26</dcterms:abstract>
+        <dc:date>1923</dc:date>
+        <z:language>ger</z:language>
+        <z:libraryCatalog>Internet Archive</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>AEV-2985</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://archive.org/details/altislndischeu00noreuoft</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:42:03</dcterms:dateSubmitted>
+        <z:numPages>496</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_76">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>einblattgrammatik_an.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.swanrad.ch/downloads/einblattgrammatik_an.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:42:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21241025300003332/UWI">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_78"/>
+        <dc:title>Kleine Grammatik des Altisl&amp;#228;ndischen - Universit&amp;#228;t Wien</dc:title>
+        <dcterms:abstract>Literaturverz. S. [171] - 184</dcterms:abstract>
+        <z:language>de</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21241025300003332/UWI</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:43:54</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_78">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=UWI_alma21241025300003332&amp;context=L&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=Local%20Search%20Engine&amp;isFrbr=true&amp;tab=default_tab&amp;query=any,contains,nedoma%20einf%C3%BChrung&amp;sortby=date&amp;facet=frbrgroupid,include,625376557&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:44:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://onp.ku.dk/onp/onp.php">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_80"/>
+        <dc:title>ONP: Dictionary of Old Norse Prose</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://onp.ku.dk/onp/onp.php</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:44:28</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_80">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ONP: Dictionary of Old Norse Prose</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://onp.ku.dk/onp/onp.php</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:44:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://www.edd.uio.no/perl/search/search.cgi?appid=86&amp;tabid=1275">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_82"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.edd.uio.no/perl/search/search.cgi?appid=86&amp;tabid=1275</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:44:56</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_82">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>www.edd.uio.no/perl/search/search.cgi?appid=86&amp;tabid=1275</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.edd.uio.no/perl/search/search.cgi?appid=86&amp;tabid=1275</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:44:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21259898580003332/UWI">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baetke</foaf:surname>
+                        <foaf:givenName>Walter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_84"/>
+        <link:link rdf:resource="#item_85"/>
+        <dc:title>Wörterbuch zur altnordischen Prosaliteratur</dc:title>
+        <dcterms:abstract>Wörterbuch zur altnordischen Prosaliteratur-book</dcterms:abstract>
+        <dc:date>2005</dc:date>
+        <z:language>de</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21259898580003332/UWI</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:46:14</dcterms:dateSubmitted>
+        <prism:edition>7</prism:edition>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_84">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=UWI_alma21259898580003332&amp;context=L&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=Local%20Search%20Engine&amp;isFrbr=true&amp;tab=default_tab&amp;query=any,contains,walter%20baetke%20w%C3%B6rterbuch&amp;sortby=date&amp;facet=frbrgroupid,include,626169912&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 17:46:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_85">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Baetke_2005_Wörterbuch zur altnordischen Prosaliteratur.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+        <dc:description>&lt;p xmlns=&quot;http://www.w3.org/1999/xhtml&quot; id=&quot;title&quot;&gt;&lt;strong&gt;Contents&lt;/strong&gt;&lt;/p&gt;&lt;ul xmlns=&quot;http://www.w3.org/1999/xhtml&quot; style=&quot;list-style-type: none; padding-left:0px&quot; id=&quot;toc&quot;&gt;&lt;li&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/1&quot;&gt;Titel 2006&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/3&quot;&gt;Vorwort 2006&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:8px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/5&quot;&gt;Einleitung 2006&lt;/a&gt;&lt;ul style=&quot;list-style-type: none; padding-left:12px&quot;&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/11&quot;&gt;Korrekturen &lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/11&quot;&gt;Bibliographie&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/13&quot;&gt;Die Suche im PDF&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:8px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/15&quot;&gt;Alphabetischer Index&lt;/a&gt;&lt;ul style=&quot;list-style-type: none; padding-left:12px&quot;&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/15&quot;&gt;A, Á&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/30&quot;&gt;B&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/47&quot;&gt;D&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/53&quot;&gt;E, É&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/61&quot;&gt;F&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/84&quot;&gt;G&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/99&quot;&gt;H&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/130&quot;&gt;I, Í&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/133&quot;&gt;J&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/136&quot;&gt;K&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/151&quot;&gt;L&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/166&quot;&gt;M&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/181&quot;&gt;N&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/187&quot;&gt;O, Ó&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/198&quot;&gt;P&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/200&quot;&gt;R&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/210&quot;&gt;S&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/255&quot;&gt;T&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/265&quot;&gt;U, Ú&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/271&quot;&gt;V&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/290&quot;&gt;Y, Ý&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/292&quot;&gt;Þ&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/302&quot;&gt;Æ&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/303&quot;&gt;OE&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/304&quot;&gt;Ö&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/306&quot;&gt;Ø&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:8px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/308&quot;&gt;1. Auflage 1965-68&lt;/a&gt;&lt;ul style=&quot;list-style-type: none; padding-left:12px&quot;&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/308&quot;&gt;Titelei 1965 Bd. I&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/310&quot;&gt;Titelei 1968 Bd. II&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/312&quot;&gt;Vorwort 1965&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:8px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/320&quot;&gt;2. Auflage 1976&lt;/a&gt;&lt;ul style=&quot;list-style-type: none; padding-left:12px&quot;&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/320&quot;&gt;Titelei 1976&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/322&quot;&gt;Vorwort 1976&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/329&quot;&gt;Vorwort zum Neudruck&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:8px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/330&quot;&gt;Wörterbuch&lt;/a&gt;&lt;ul style=&quot;list-style-type: none; padding-left:12px&quot;&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/330&quot;&gt;Abkürzungen&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/331&quot;&gt;A&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/367&quot;&gt;B&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/411&quot;&gt;D&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/429&quot;&gt;E&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/449&quot;&gt;F&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/509&quot;&gt;G&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/549&quot;&gt;H&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/631&quot;&gt;I&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/638&quot;&gt;J&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/645&quot;&gt;K&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/687&quot;&gt;L&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/729&quot;&gt;M&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/766&quot;&gt;N&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/782&quot;&gt;O&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/804&quot;&gt;P&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/809&quot;&gt;R&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/841&quot;&gt;S&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/1001&quot;&gt;U&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/1020&quot;&gt;V&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/1087&quot;&gt;Y&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/1094&quot;&gt;﻿Þ&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/1130&quot;&gt;﻿Æ&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/1135&quot;&gt;OE&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/1137&quot;&gt;Ö&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/1142&quot;&gt;﻿Ø&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/1146&quot;&gt;Addenda&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/1147&quot;&gt;Liste von Verbformen&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;padding-top:4px&quot;&gt;&lt;a href=&quot;zotero://open-pdf/0_35JPAYTR/1152&quot;&gt;Anhang zu korrigierender Seiten der 1. Aufl.&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</dc:description>
+    </z:Attachment>
+    <bib:Book rdf:about="https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21271983390003332/UWI">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pulsiano</foaf:surname>
+                        <foaf:givenName>Philipp</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_87"/>
+        <dc:title>Medieval Scandinavia : an encyclopedia</dc:title>
+        <dc:date>1993</dc:date>
+        <z:language>de</z:language>
+        <z:shortTitle>Medieval Scandinavia</z:shortTitle>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>0824047877</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21271983390003332/UWI</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 18:25:51</dcterms:dateSubmitted>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_87">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=UWI_alma21271983390003332&amp;context=L&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=Local%20Search%20Engine&amp;tab=default_tab&amp;query=any,contains,Medieval%20Scandinavia:%20An%20Encyclopedia&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 18:26:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma51459280870003332/UWI">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_89"/>
+        <dc:title>Altnordische philologie : : Norwegen und Island - Universit&amp;#228;t Wien</dc:title>
+        <dcterms:abstract>Enthält: &quot;&quot;Vorwort&quot;&quot;; &quot;&quot;AbkÃ?rzungen und Zeichen&quot;&quot;; &quot;&quot;Normalisierte Orthographie in den altwestnordischen Texten&quot;&quot;; &quot;&quot;Einleitung&quot;&quot;; &quot;&quot;Kapitel 1. Handschriftenâ€? und Archivkunde&quot;&quot;; &quot;&quot;Kapitel 2. Textkritik und Textphilologie&quot;&quot;; &quot;&quot;Kapitel 3. Runologie&quot;&quot;; &quot;&quot;Kapitel 4. PalÃ?ographie&quot;&quot;; &quot;&quot;Kapitel 5. Edda und Skaldendichtung&quot;&quot;; &quot;&quot;Kapitel 6. Sagaliteratur&quot;&quot;; &quot;&quot;Kapitel 7. Syntaktische Entwicklung&quot;&quot;; &quot;&quot;Kapitel 8. Personen- und Ortsnamen&quot;&quot;; &quot;&quot;Kapitel 9. AltislÃ?ndisch und Altnorwegisch&quot;&quot;; &quot;&quot;Kapitel 10. Mittelnorwegisch&quot;&quot;; &quot;&quot;Literaturverzeichnis&quot;&quot;; &quot;&quot;Internetadressen&quot;&quot;; &quot;&quot;Verzeichnis der Abbildungen&quot;&quot;; &quot;&quot;Index&quot;&quot;;German translation of Handbok i norrøn filologi.;Print version record.</dcterms:abstract>
+        <z:language>de</z:language>
+        <z:shortTitle>Altnordische philologie</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma51459280870003332/UWI</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 18:30:38</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_89">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay?docid=UWI_alma51459280870003332&amp;context=L&amp;vid=UWI&amp;lang=de_DE&amp;search_scope=UWI_UBBestand&amp;adaptor=Local%20Search%20Engine&amp;isFrbr=true&amp;tab=default_tab&amp;query=any,contains,Haugen%20altnordische%20philologie&amp;sortby=date&amp;facet=frbrgroupid,include,626590456&amp;offset=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 18:30:47</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-11-089895-8">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haugen</foaf:surname>
+                        <foaf:givenName>Odd Einar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Nahl</foaf:surname>
+                        <foaf:givenName>Astrid</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_91"/>
+        <link:link rdf:resource="#item_92"/>
+        <link:link rdf:resource="#item_93"/>
+        <link:link rdf:resource="#item_94"/>
+        <link:link rdf:resource="#item_95"/>
+        <link:link rdf:resource="#item_96"/>
+        <link:link rdf:resource="#item_97"/>
+        <link:link rdf:resource="#item_98"/>
+        <link:link rdf:resource="#item_99"/>
+        <link:link rdf:resource="#item_100"/>
+        <link:link rdf:resource="#item_101"/>
+        <link:link rdf:resource="#item_102"/>
+        <link:link rdf:resource="#item_103"/>
+        <link:link rdf:resource="#item_104"/>
+        <link:link rdf:resource="#item_105"/>
+        <link:link rdf:resource="#item_106"/>
+        <link:link rdf:resource="#item_107"/>
+        <link:link rdf:resource="#item_108"/>
+        <link:link rdf:resource="#item_109"/>
+        <link:link rdf:resource="#item_110"/>
+        <link:link rdf:resource="#item_111"/>
+        <dc:title>Altnordische Philologie: Norwegen und Island</dc:title>
+        <dcterms:abstract>Mit dem Ziel, den Leser an die Quellen heranzuführen, gibt das Handbuch einen breiten Überblick über altnorwegische und altisländische Sprache und Literatur mit den Bereichen Handschriftenkunde, Textkritik, Runologie, Paläographie, Namen, Saga, Edda und Skaldik. Die Sprachgeschichte vom Altwestnordischen bis zum Mittelnorwegischen dokumentiert mit zahlreichen Beispielen auch das vernachlässigte Gebiet der Syntax. Das 2004 in Norwegen erschienene Buch wurde mit Blick auf ein deutsches Zielpublikum überarbeitet und um weiterführende Literatur ergänzt. Für Studienanfänger konzipiert, ist das Buch bewusst in einem leicht verständlichen Stil gehalten, der dennoch nicht auf wissenschaftliche Terminologie verzichtet. Eine Fülle von Illustrationen und Faksimiles erleichtert zudem den Einstieg in die einzelnen Themenbereiche. Jedes der 10 Kapitel schließt mit weiteren Lesevorschlägen und einer Auflistung der wichtigsten Primär- und Sekundärliteratur. Ein umfangreicher, mehrfach gegliederter Index trägt zur Benutzerfreundlichkeit bei.</dcterms:abstract>
+        <dc:date>2011</dc:date>
+        <z:language>In German.</z:language>
+        <z:shortTitle>Altnordische Philologie</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1515/9783110898958</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-10 18:31:20</dcterms:dateSubmitted>
+        <dc:description>OCLC: 1013941316</dc:description>
+        <dc:identifier>ISBN 978-3-11-089895-8</dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_91">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Haugen_Van Nahl_2011_Altnordische Philologie.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_92">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Backmatter.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_93">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Einleitung.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_94">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Frontmatter.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_95">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Index.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_96">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Inhaltsverzeichnis.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_97">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Internetadressen.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_98">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Kapitel 1. Handschriften und Archivkunde.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_99">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Kapitel 2. Textkritik und Textphilologie.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_100">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Kapitel 3. Runologie.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_101">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Kapitel 4. Palographie.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_102">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Kapitel 5. Edda und Skaldendichtung.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_103">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Kapitel 6. Sagaliteratur.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_104">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Kapitel 7. Syntaktische Entwicklung.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_105">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Kapitel 8. Personen- und Ortsnamen.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_106">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Kapitel 9. Altislndisch und Altnorwegisch.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_107">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Kapitel 10. Mittelnorwegisch.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_108">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Literaturverzeichnis.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_109">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Normalisierte Orthographie in den altwestnordischen Texten.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_110">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Verzeichnis der Abbildungen.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_111">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>[9783110898958 - Altnordische Philologie] Vorwort.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_6">
+        <dc:title>Digital Editions</dc:title>
+        <dcterms:hasPart rdf:resource="https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma51383783170003332/UWI"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-0-252-03840-2"/>
+        <dcterms:hasPart rdf:resource="#item_40"/>
+        <dcterms:hasPart rdf:resource="https://usearch.univie.ac.at"/>
+        <dcterms:hasPart rdf:resource="#item_46"/>
+        <dcterms:hasPart rdf:resource="#item_51"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-11-030026-0"/>
+        <dcterms:hasPart rdf:resource="#item_57"/>
+        <dcterms:hasPart rdf:resource="#item_59"/>
+        <dcterms:hasPart rdf:resource="https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_almanz71317102110003331/UWI"/>
+        <dcterms:hasPart rdf:resource="#item_63"/>
+        <dcterms:hasPart rdf:resource="#item_65"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_7">
+        <dc:title>Grammars and Dictionaries</dc:title>
+        <dcterms:hasPart rdf:resource="https://bosworthtoller.com/"/>
+        <dcterms:hasPart rdf:resource="#item_69"/>
+        <dcterms:hasPart rdf:resource="http://www.germanic-lexicon-project.org/texts/goth_wright_about.html"/>
+        <dcterms:hasPart rdf:resource="http://archive.org/details/altislndischeu00noreuoft"/>
+        <dcterms:hasPart rdf:resource="#item_76"/>
+        <dcterms:hasPart rdf:resource="https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21241025300003332/UWI"/>
+        <dcterms:hasPart rdf:resource="http://onp.ku.dk/onp/onp.php"/>
+        <dcterms:hasPart rdf:resource="http://www.edd.uio.no/perl/search/search.cgi?appid=86&amp;tabid=1275"/>
+        <dcterms:hasPart rdf:resource="https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21259898580003332/UWI"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_2">
+        <dc:title>Jónsbók</dc:title>
+        <dcterms:hasPart rdf:resource="#item_8"/>
+        <dcterms:hasPart rdf:resource="#item_21"/>
+        <dcterms:hasPart rdf:resource="#item_24"/>
+        <dcterms:hasPart rdf:resource="https://reader.digitale-sammlungen.de/resolve/display/bsb10563989.html"/>
+        <dcterms:hasPart rdf:resource="https://reader.digitale-sammlungen.de/resolve/display/bsb10564046.html"/>
+        <dcterms:hasPart rdf:resource="https://zdb-katalog.de/list.xhtml?t=zdb%3D702993-7&amp;key=cql&amp;asc=false"/>
+        <dcterms:hasPart rdf:resource="#item_35"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_8">
+        <dc:title>Nachschlagwerke</dc:title>
+        <dcterms:hasPart rdf:resource="https://usearch.uaccess.univie.ac.at/primo-explore/fulldisplay/UWI_alma21271983390003332/UWI"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-11-089895-8"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>Test</dc:title>
+        <dcterms:hasPart rdf:resource="#item_2"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-11-022549-5"/>
+        <dcterms:hasPart rdf:resource="#item_5"/>
+    </z:Collection>
+</rdf:RDF>
