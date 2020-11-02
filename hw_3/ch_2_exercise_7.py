@@ -11,11 +11,8 @@ def main():
 
     apr = eval(input("Enter the annual interest rate:   "))
 
-    intialprincipal = principal
+    for i in range(amYears):
+        principal = principal + principal * (1 + apr)
 
-    rate = apr + 1
-
-        for i in range(amYears):
-            principal = intialprincipal + principal * rate
-            print("The total accumulation of your investments in ", amYears, " years is ", principal, ".")    
+    print("The total accumulation of your investments in ", amYears, " years is ", principal, ".")    
 main()
