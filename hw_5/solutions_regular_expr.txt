@@ -1,0 +1,28 @@
+Part I:
+1. (eat(s|en|ing|ery|er)?|ate)
+2. M[oa][u|a|']a?mm?[ae]r? [e|E|a|A]?[l|I]?[- ]?[G|K]h?ad?d?z?z?h?afi
+3.\b[H|h]?[I|E|i|e][s|ṣ]\w{5}
+Part II:
+1.)	Leon Askin
+	Helmut Berger
+	Senta Berger
+	Käthe Gold
+	Liane Haid
+	Attila Hörbiger
+	Christiane Hörbiger
+	Paul Hörbiger
+	Melanie Kogler
+	Hedy Lamarr
+	Karl Merkatz
+	Birgit Minichmayr
+	Hans Moser
+	Reggie Nalder
+	Maximilian Schell
+	Romy Schneider
+	Arnold Schwarzenegger
+	Christoph Waltz
+	Oskar Werner
+	Darth Vader
+2.)Vienna|Graz|Linz|Salzburg|Innsbruck|Klagenfurt|Villach|Wels|Sankt Pölten|Dornbirn|Wiener Neustadt|Steyr|Feldkirch|Bregenz|Leonding|Klosterneuburg|Baden bei Wien|Wolfsberg|Leoben|Krems|Traun|Amstetten|Lustenau|Kapfenberg|Mödling|Hallein|Kufstein|Traiskirchen|Schwechat|Braunau am Inn|Stockerau|Saalfelden|Ansfelden|Tulln|Hohenems|Spittal an der Drau|Telfs|Ternitz|Perchtoldsdorf|Feldkirchen|Bludenz|Bad Ischl|Eisenstadt|Schwaz|Hall in Tirol|Gmunden|Wörgl|Wals-Siezenheim|Marchtrenk|Bruck an der Mur|Sankt Veit an der Glan|Korneuburg|Neunkirchen|Hard|Vöcklabruck|Lienz|Rankweil|Hollabrunn|Enns|Brunn am Gebirge|Ried im Innkreis|Bad Vöslau|Waidhofen|Knittelfeld|Trofaiach|Mistelbach|Zwettl|Völkermarkt|Götzis|Sankt Johann im Pongau|Gänserndorf|Gerasdorf bei Wien|Ebreichsdorf|Bischofshofen|Groß-Enzersdorf|Seekirchen am Wallersee|Sankt Andrä
+3.1)\w.{1}\(Lower Austria\)
+3.2)\w.{1}\(Salzburg\)
