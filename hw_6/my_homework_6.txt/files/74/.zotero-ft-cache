@@ -1,0 +1,185 @@
+
+
+    	Germanic Lexicon Project
+    Texts 		
+    Home
+    	
+    Texts
+    	
+    Search
+    	
+    Messages
+    	
+    Volunteer
+    	
+    About
+    Grammar of the Gothic Language
+    Title: 	Grammar of the Gothic Language and the Gospel of St. Mark, Selections from the Other Gospels, and the Second Epistle to Timothy, with Notes and Glossary
+    Author: 	Joseph Wright
+    Year: 	1910
+    Downloads
+
+        Corrected glossary in HTML
+        Corrected glossary in XML
+        TIFF, PNG, and HTML files for individual pages are below.
+
+    Credits:
+
+        Sean Crist: Scanned, OCR'ed, and hand-corrected the glossary in 1999. Scanned the entire text in Oct. 2001. OCR'ed the rest of the text in Nov 2002. Wrote script to do XML markup.
+        Justin Mansfield: Corrected þaúfsus to þaúrsus (10 October 1999) Corrected þan to þáu within the entry for þáu. Also corrected waihts to waíhts (12 Oct 1999).
+        Giuseppe Pagliarulo: Corrected af-hrapnan to af-ƕapnan (15 December 1999). Corrected aiƕa-tundi to aíƕa-tundi, air to aír, airþeins to aírþeins, airzjan to aírzjan, aiz to áiz (27 December 1999).
+        Don Ringe: confirmed that 'uf-brinnan' should be 'sv. III' (Wright lists it as 'wv. I').
+        Cory Strohmier: Corrected þis dagis afar-sabbata to þis dagis afar-sabbatê , and fráuja, wn. to fráuja, wm. (5 Dec 2001). Pointed out errors in the punctuation of ana and háitan (9 Aug 2002). Corrected lingan to liugan . Corrected class of *widan from sv. I to sv. V . Pointed out that fráujinôn, which was listed with no morphological category, should be wv. II. (16 Aug. 2002) Corrected glass of giutan from sv. V. to sv. II. (30 Oct 2004)
+        Gerry Taylor: pointed out Wright incorrectly translates 'munþs' as 'month'; the correct translation is 'mouth' (27 June 1999).
+        Christopher Greeson: pointed out that Wright incorrectly lists ga-standan as a class VII strong verb (it is class VI) (correction received 23 Nov 2001; posted 26 May 2002).
+
+    If you'd like to hand-correct the text, note that only certain parts of the text need to be handled:
+
+        i-x 	Roman numeral pages 	Needs to be corrected.
+        1-199 	Grammar section. 	Needs to be corrected.
+        200-291 	Readings. 	No need to correct; available from Project Ulfila.
+        292-301 	Notes on readings. 	Needs to be corrected.
+        302-358 	Glossary. 	Already corrected.
+        359-366 	Discussion and glossary of proper names. 	Needs to be corrected.
+        367-384 	Supplement to the second edition (1954). 	Not available here because it is still under copyright.
+
+    About the glossary
+
+    The glossary is in a mature state of correction and markup. Please report any remaining errors which you find.
+
+    In a very few cases, minor corrections were made to what were clearly punctuation errors which existed in the original. Further, the following errors existed in the original but have been corrected in the online text version:
+
+        The verb 'uf-brinnan' should be 'sv. III', but Wright has it as 'wv. I'.
+        'munþs' is incorrectly translated as 'month'; the correct translation is 'mouth'.
+        '*widan' should be 'sv. V', but Wright has it as 'sv. I'.
+        'fráujinôn' is wv. II; Wright omitted the part of speech tag.
+        'giutan' should be 'sv. II', but Wright has it as 'sv. V'.
+
+    The HTML version is a presentation version derived from the XML version. The XML version is the base document.
+
+    Correction history
+    16 June 1999: Changed the character coding from an idiosyncratic encoding to the closest manageable approximation of ISO-8859-1. Corrected a few typos.
+    27 June 1999: Corrected 'month' to 'mouth'.
+    10 October 1999: Corrected þaúfsus to þaúrsus. Thanks to Justin Mansfield for pointing out this error.
+    12 October 1999: Corrected þan to þáu within the entry for þáu. Also corrected waihts to waíhts. Thanks to Justin Mansfield for pointing out these errors.
+    15 December 1999: Corrected af-hrapnan to af-ƕapnan. Thanks to Giuseppe Pagliarulo for pointing out this error.
+    27 December 1999: Corrected aiƕa-tundi to aíƕa-tundi, air to aír, airþeins to aírþeins, airzjan to aírzjan, aiz to áiz. Thanks to Giuseppe Pagliarulo for pointing out these errors.
+    5 Oct 2000: Major overhaul. Sean Crist wrote a Perl program to parse the raw text and mark it up with XML-style tags, and then made a great many hand corrections to the automated parsing. In the process, at least ten more scanos were corrected.
+    5 Dec 2001: Corrected þis dagis afar-sabbata to þis dagis afar-sabbatê , and fráuja, wn. to fráuja, wm. . Thanks to Cory Strohmier for pointing out these errors.
+    15 Aug 2002: Corrected punctuation in ana and háitan . Thanks to Cory Strohmier for pointing out these errors.
+    24 Aug 2002: Added wv. II to fráujinôn. Corrected *widan from sv. I to sv. V. Corrected lingan to liugan. Thanks to Cory Strohmier for pointing out these errors.
+    30 October 2004: Corrected giutan from sv. V to sv. II. Thanks to Cory Strohmier for pointing this out.
+
+    Partial list of automated checks which have been performed:
+
+        All English words in the definition fields were spell-checked.
+        List of references to Wright's paragraphs were checked to make sure they are in numeric order (a sequence such as 222, 127 must be an error.)
+        Anomalies in part-of-speech fields were shaken out by making a histogram of all words occurring in those fields; some words which occurred only once were in fact errors.
+        A histogram of individual characters was made to make sure that all non-ASCII characters have been recoded as XML entities.
+
+    Page Images and OCR'ed Text
+
+    30 Oct 2004: The glossary pages below (302-258) reflect the corrected text. The HTML files for the other pages have not been corrected.
+
+    Introductory pages
+
+    tiff 						png 						html 					
+    --- 	1 	2 	3 	4 		--- 	1 	2 	3 	4 		--- 	1 	2 	3 	4
+    5 	6 	7 	8 	9 		5 	6 	7 	8 	9 		5 	6 	7 	8 	9
+
+    Main text
+
+    tiff 						png 						html 					
+    0 	1 	2 	3 	4 		0 	1 	2 	3 	4 		0 	1 	2 	3 	4
+    5 	6 	7 	8 	9 		5 	6 	7 	8 	9 		5 	6 	7 	8 	9
+    10 	11 	12 	13 	14 		10 	11 	12 	13 	14 		10 	11 	12 	13 	14
+    15 	16 	17 	18 	19 		15 	16 	17 	18 	19 		15 	16 	17 	18 	19
+    20 	21 	22 	23 	24 		20 	21 	22 	23 	24 		20 	21 	22 	23 	24
+    25 	26 	27 	28 	29 		25 	26 	27 	28 	29 		25 	26 	27 	28 	29
+    30 	31 	32 	33 	34 		30 	31 	32 	33 	34 		30 	31 	32 	33 	34
+    35 	36 	37 	38 	39 		35 	36 	37 	38 	39 		35 	36 	37 	38 	39
+    40 	41 	42 	43 	44 		40 	41 	42 	43 	44 		40 	41 	42 	43 	44
+    45 	46 	47 	48 	49 		45 	46 	47 	48 	49 		45 	46 	47 	48 	49
+
+    tiff 						png 						html 					
+    50 	51 	52 	53 	54 		50 	51 	52 	53 	54 		50 	51 	52 	53 	54
+    55 	56 	57 	58 	59 		55 	56 	57 	58 	59 		55 	56 	57 	58 	59
+    60 	61 	62 	63 	64 		60 	61 	62 	63 	64 		60 	61 	62 	63 	64
+    65 	66 	67 	68 	69 		65 	66 	67 	68 	69 		65 	66 	67 	68 	69
+    70 	71 	72 	73 	74 		70 	71 	72 	73 	74 		70 	71 	72 	73 	74
+    75 	76 	77 	78 	79 		75 	76 	77 	78 	79 		75 	76 	77 	78 	79
+    80 	81 	82 	83 	84 		80 	81 	82 	83 	84 		80 	81 	82 	83 	84
+    85 	86 	87 	88 	89 		85 	86 	87 	88 	89 		85 	86 	87 	88 	89
+    90 	91 	92 	93 	94 		90 	91 	92 	93 	94 		90 	91 	92 	93 	94
+    95 	96 	97 	98 	99 		95 	96 	97 	98 	99 		95 	96 	97 	98 	99
+
+    tiff 						png 						html 					
+    100 	101 	102 	103 	104 		100 	101 	102 	103 	104 		100 	101 	102 	103 	104
+    105 	106 	107 	108 	109 		105 	106 	107 	108 	109 		105 	106 	107 	108 	109
+    110 	111 	112 	113 	114 		110 	111 	112 	113 	114 		110 	111 	112 	113 	114
+    115 	116 	117 	118 	119 		115 	116 	117 	118 	119 		115 	116 	117 	118 	119
+    120 	121 	122 	123 	124 		120 	121 	122 	123 	124 		120 	121 	122 	123 	124
+    125 	126 	127 	128 	129 		125 	126 	127 	128 	129 		125 	126 	127 	128 	129
+    130 	131 	132 	133 	134 		130 	131 	132 	133 	134 		130 	131 	132 	133 	134
+    135 	136 	137 	138 	139 		135 	136 	137 	138 	139 		135 	136 	137 	138 	139
+    140 	141 	142 	143 	144 		140 	141 	142 	143 	144 		140 	141 	142 	143 	144
+    145 	146 	147 	148 	149 		145 	146 	147 	148 	149 		145 	146 	147 	148 	149
+
+    tiff 						png 						html 					
+    150 	151 	152 	153 	154 		150 	151 	152 	153 	154 		150 	151 	152 	153 	154
+    155 	156 	157 	158 	159 		155 	156 	157 	158 	159 		155 	156 	157 	158 	159
+    160 	161 	162 	163 	164 		160 	161 	162 	163 	164 		160 	161 	162 	163 	164
+    165 	166 	167 	168 	169 		165 	166 	167 	168 	169 		165 	166 	167 	168 	169
+    170 	171 	172 	173 	174 		170 	171 	172 	173 	174 		170 	171 	172 	173 	174
+    175 	176 	177 	178 	179 		175 	176 	177 	178 	179 		175 	176 	177 	178 	179
+    180 	181 	182 	183 	184 		180 	181 	182 	183 	184 		180 	181 	182 	183 	184
+    185 	186 	187 	188 	189 		185 	186 	187 	188 	189 		185 	186 	187 	188 	189
+    190 	191 	192 	193 	194 		190 	191 	192 	193 	194 		190 	191 	192 	193 	194
+    195 	196 	197 	198 	199 		195 	196 	197 	198 	199 		195 	196 	197 	198 	199
+
+    tiff 						png 						html 					
+    200 	201 	202 	203 	204 		200 	201 	202 	203 	204 		200 	201 	202 	203 	204
+    205 	206 	207 	208 	209 		205 	206 	207 	208 	209 		205 	206 	207 	208 	209
+    210 	211 	212 	213 	214 		210 	211 	212 	213 	214 		210 	211 	212 	213 	214
+    215 	216 	217 	218 	219 		215 	216 	217 	218 	219 		215 	216 	217 	218 	219
+    220 	221 	222 	223 	224 		220 	221 	222 	223 	224 		220 	221 	222 	223 	224
+    225 	226 	227 	228 	229 		225 	226 	227 	228 	229 		225 	226 	227 	228 	229
+    230 	231 	232 	233 	234 		230 	231 	232 	233 	234 		230 	231 	232 	233 	234
+    235 	236 	237 	238 	239 		235 	236 	237 	238 	239 		235 	236 	237 	238 	239
+    240 	241 	242 	243 	244 		240 	241 	242 	243 	244 		240 	241 	242 	243 	244
+    245 	246 	247 	248 	249 		245 	246 	247 	248 	249 		245 	246 	247 	248 	249
+
+    tiff 						png 						html 					
+    250 	251 	252 	253 	254 		250 	251 	252 	253 	254 		250 	251 	252 	253 	254
+    255 	256 	257 	258 	259 		255 	256 	257 	258 	259 		255 	256 	257 	258 	259
+    260 	261 	262 	263 	264 		260 	261 	262 	263 	264 		260 	261 	262 	263 	264
+    265 	266 	267 	268 	269 		265 	266 	267 	268 	269 		265 	266 	267 	268 	269
+    270 	271 	272 	273 	274 		270 	271 	272 	273 	274 		270 	271 	272 	273 	274
+    275 	276 	277 	278 	279 		275 	276 	277 	278 	279 		275 	276 	277 	278 	279
+    280 	281 	282 	283 	284 		280 	281 	282 	283 	284 		280 	281 	282 	283 	284
+    285 	286 	287 	288 	289 		285 	286 	287 	288 	289 		285 	286 	287 	288 	289
+    290 	291 	292 	293 	294 		290 	291 	292 	293 	294 		290 	291 	292 	293 	294
+    295 	296 	297 	298 	299 		295 	296 	297 	298 	299 		295 	296 	297 	298 	299
+
+    tiff 						png 						html 					
+    300 	301 	302 	303 	304 		300 	301 	302 	303 	304 		300 	301 	302 	303 	304
+    305 	306 	307 	308 	309 		305 	306 	307 	308 	309 		305 	306 	307 	308 	309
+    310 	311 	312 	313 	314 		310 	311 	312 	313 	314 		310 	311 	312 	313 	314
+    315 	316 	317 	318 	319 		315 	316 	317 	318 	319 		315 	316 	317 	318 	319
+    320 	321 	322 	323 	324 		320 	321 	322 	323 	324 		320 	321 	322 	323 	324
+    325 	326 	327 	328 	329 		325 	326 	327 	328 	329 		325 	326 	327 	328 	329
+    330 	331 	332 	333 	334 		330 	331 	332 	333 	334 		330 	331 	332 	333 	334
+    335 	336 	337 	338 	339 		335 	336 	337 	338 	339 		335 	336 	337 	338 	339
+    340 	341 	342 	343 	344 		340 	341 	342 	343 	344 		340 	341 	342 	343 	344
+    345 	346 	347 	348 	349 		345 	346 	347 	348 	349 		345 	346 	347 	348 	349
+
+    tiff 						png 						html 					
+    350 	351 	352 	353 	354 		350 	351 	352 	353 	354 		350 	351 	352 	353 	354
+    355 	356 	357 	358 	359 		355 	356 	357 	358 	359 		355 	356 	357 	358 	359
+    360 	361 	362 	363 	364 		360 	361 	362 	363 	364 		360 	361 	362 	363 	364
+    365 	366 	--- 	--- 	--- 		365 	366 	--- 	--- 	--- 		365 	366 	--- 	--- 	---
+
+    Germanic Lexicon Project main page
+
+    Contact
+
